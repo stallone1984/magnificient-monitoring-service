@@ -1,0 +1,149 @@
+2018-01-09 20:43:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:43:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:43:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:43:34 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:43:39 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:43:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:43:49 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:43:54 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:43:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:34 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:44:39 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:44:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:44:59 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:45:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:24 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:45:29 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:45:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:39 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:45:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:49 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:45:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:45:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:04 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:46:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:14 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:46:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:24 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:46:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:46:59 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:47:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:14 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:47:19 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:47:24 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:47:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:47:54 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:47:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:09 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:48:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:19 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:48:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:29 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:48:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:48:54 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:48:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:14 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:49:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:24 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:49:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:49:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:19 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:50:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:39 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:50:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:50:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:04 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:51:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:39 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:51:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:51:54 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:51:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:09 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:52:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:29 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:44 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:52:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:52:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:09 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:29 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:53:34 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:39 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:44 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:49 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:54 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:53:59 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:04 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:09 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:54:14 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:19 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:24 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:29 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:54:35 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:54:40 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:45 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:50 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:54:55 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:00 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:55:05 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:55:10 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:15 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:20 ERROR Monitoring:43 - java.io.IOException: Server returned HTTP response code: 500 for URL: http://localhost:12345
+2018-01-09 20:55:25 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:30 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:35 INFO  Monitoring:41 - Magnificent!
+2018-01-09 20:55:40 INFO  Monitoring:41 - Magnificent!
